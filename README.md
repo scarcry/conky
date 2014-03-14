@@ -11,6 +11,6 @@ Files.
 
 Usage.
 --------------
-python rss.py <rss feed url>
-python newgmail.py <emailaddress> <password>
-python totalgmail.py <emailaddress> <password>
+python rss.py \<rss feed url\>
+python newgmail.py \<emailaddress\> \<password\>
+python totalgmail.py \<emailaddress\> \<password\>
