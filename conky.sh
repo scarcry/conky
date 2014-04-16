@@ -3,7 +3,7 @@
 # Global Variables
 # ===============================================
 _pid=$(pidof conky)
-_workdir='/home/haraldvdlaan/.conky'
+_workdir='~/.conky'
 
 # Functions
 # ===============================================

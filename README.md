@@ -5,9 +5,9 @@ Files.
 --------------
 - conky.conf      # Conky config file
 - conky-sd.conf   # Conky config for 1366x768 resolution
+- conky.sh        # Conky start script
 - newgmail.py     # Shows number of new emails
 - rss.py          # Rss feed reader (req: python-feedparser)
-- start.sh        # Start script
 - timeline.py     # Show tweets for your twitter home page (req: python-twitter)
 - totalgmail.py   # Shows number of total emails
 
